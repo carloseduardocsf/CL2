@@ -1,4 +1,4 @@
-module projeto04 (select, a , b, out);
+module ex06 (select, a , b, out);
 
 input select, a, b;
 output logic out;
