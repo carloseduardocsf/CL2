@@ -1,4 +1,4 @@
-module projeto02 (X, A, B, Out);
+module ex04 (X, A, B, Out);
 
 input X, A, B;
 output Out;
