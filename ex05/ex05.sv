@@ -1,4 +1,4 @@
-module projeto03 (sel, a, b, out);
+module ex05 (sel, a, b, out);
 
 input sel, a, b;
 output logic out;
