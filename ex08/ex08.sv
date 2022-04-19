@@ -1,4 +1,4 @@
-module projeto07 (clk, a, c);
+module ex08(clk, a, c);
 
 input clk, a;
 output c;
