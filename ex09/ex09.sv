@@ -1,4 +1,4 @@
-module projeto09 (A, B, Cin, S, Cout);
+module ex09(A, B, Cin, S, Cout);
 
 input A, B, Cin;
 output S, Cout;
